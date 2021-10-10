@@ -1,0 +1,24 @@
+{
+	"name": "react-linkedin-profile-badge",
+	"version": "1.0.0",
+	"description": "LinkedIn profile badge for React",
+	"main": "index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nwankwo-ikemefuna/react-linkedin-profile-badge.git"
+	},
+	"keywords": [
+		"LinkedIn",
+		"LinkedIn profile badge",
+		"LinkedIn profile badge for React"
+	],
+	"author": "Ikemefuna Nwankwo",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nwankwo-ikemefuna/react-linkedin-profile-badge/issues"
+	},
+	"homepage": "https://github.com/nwankwo-ikemefuna/react-linkedin-profile-badge#readme"
+}
